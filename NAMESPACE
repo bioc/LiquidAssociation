@@ -1,0 +1,4 @@
+.onLoad <- function(lib, pkg) require(methods)
+importFrom(graphics, plot)
+exportPattern("^[[:alpha:]]+")
+exportMethods(CNM.full, CNM.simple, getsGLA, getsLA, GLA, LA, plotGLA)

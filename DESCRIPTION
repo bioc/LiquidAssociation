@@ -1,0 +1,13 @@
+Package: LiquidAssociation
+Type: Package
+Title: LiquidAssociation
+Version: 0.99.0
+Date: 2009-10-07
+Author: Yen-Yi Ho <yho@jhsph.edu>
+Maintainer: Yen-Yi Ho <yho@jhsph.edu>
+Description: The package contains functions for calculate direct and model-based estimators for liquid associaiton. 
+   It also provides functions for testing the existence of liquid associaiton given a gene triplet data. 
+Depends: geepack, methods, yeastCC, org.Sc.sgd.db
+biocViews: Pathways, GeneExpression, CellBiology, Genetics, Bioinformatics, TimeCourse
+License: GPL (>=3)
+LazyLoad: yes
