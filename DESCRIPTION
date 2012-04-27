@@ -1,7 +1,7 @@
 Package: LiquidAssociation
 Type: Package
 Title: LiquidAssociation
-Version: 1.11.0
+Version: 1.11.1
 Date: 2009-10-07
 Author: Yen-Yi Ho <yho@jhsph.edu>
 Maintainer: Yen-Yi Ho <yho@jhsph.edu>
@@ -10,6 +10,6 @@ Description: The package contains functions for calculate direct and model-based
    existence of liquid association given a gene triplet data. 
 Depends: geepack, methods, yeastCC, org.Sc.sgd.db
 Imports: Biobase, graphics, grDevices, methods, stats
-biocViews: Pathways, GeneExpression, CellBiology, Genetics, Bioinformatics, TimeCourse
+biocViews: Pathways, GeneExpression, CellBiology, Genetics, NetworkAnalysis, TimeCourse
 License: GPL (>=3)
 LazyLoad: yes
